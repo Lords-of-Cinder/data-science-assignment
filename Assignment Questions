@@ -13,19 +13,28 @@ Exercises
 1. Count the number of merchants, bank accounts and tabulate:												
 (i) the number of bank accounts for each merchant												
 (ii) the number of months of each bank account for which data is available												
-(iii) the total number of credits (deposits), debits (withdrawals) and their averages per month for each bank account and each merchant												
+(iii) the total number of credits (deposits), debits (withdrawals) and their averages per month for each bank account and 
+each merchant												
 (iv) the total dollar value of credits, debits and their averages per month for each bank account and each merchant												
 (v) Aggregate the answers to (iii) and (iv) at the merchant level, industry level and bankid level												
 (vi) Develop a slide visualizing the relationship between LeadID, bankid, bank_account_id and account_number 												
 												
-2. Consider Lead ID: 318465, bank_account_id: 13419  - plot the withdrawals, deposits and end-of-day daily balance as a daily time series; do the same for Lead ID: 316728, bank_account_id : 13232.												
+2. Consider Lead ID: 318465, bank_account_id: 13419  - plot the withdrawals, deposits and end-of-day daily balance 
+as a daily time series; do the same for Lead ID: 316728, bank_account_id : 13232.												
 												
-3. For the merchants with the above Lead IDs, plot the withdrawals, deposits and end-of-day daily balance as a daily time series (aggregate over all their bank accounts)												
+3. For the merchants with the above Lead IDs, plot the withdrawals, deposits and end-of-day daily balance 
+as a daily time series (aggregate over all their bank accounts)												
 												
-4. The cash flow of a business has many dimensions [for example, top 5 deposits/Total deposits,  average # of days between two withdrawals, coefficient of variation of the daily balance] that are potentially relevant to a borrower’s ability to repay. Can you obtain the value of these variables for each merchant? What other cash flow variables can you hypothesize that could be relevant for predicting merchant default?												
+4. The cash flow of a business has many dimensions [for example, top 5 deposits/Total deposits,  
+average # of days between two withdrawals, coefficient of variation of the daily balance] 
+that are potentially relevant to a borrower’s ability to repay. 
+Can you obtain the value of these variables for each merchant? What other cash flow variables can you hypothesize 
+that could be relevant for predicting merchant default?												
 												
 Extra Credit												
-5. Develop a program by which clusters of similar transactions for a merchant can be identified from transaction descriptions and other information
+5. Develop a program by which clusters of similar transactions for a merchant can be identified from transaction descriptions 
+and other information
+
 See Example of such transactions:
 
 post_date	 description	                                                                     transaction_type	amount
