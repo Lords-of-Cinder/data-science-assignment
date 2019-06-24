@@ -31,9 +31,9 @@ See Example of such transactions:
 post_date	 description	                                                                     transaction_type	amount
 1-Nov-16	 TRANSFIRST DES:BKCD STLMT ID:xxxxxxxxxxx1714 INDN:THE BREAKFAST CLUB CO ID:WFBT	 credit	          2247.3
 1-Nov-16	 TRANSFIRST DES:BKCD STLMT ID:xxxxxxxxxxx1714 INDN:THE BREAKFAST CLUB CO ID:WFBT	 credit	          3234.46
-2-Nov-16	 CHECKCARD 1101 CHILDTIME 0645 TROY MI xxxxxxxxxxxxxxxxxxx0046	                   debit	          129
+2-Nov-16	 CHECKCARD 1101 CHILDTIME 0645 TROY MI xxxxxxxxxxxxxxxxxxx0046	                         debit	          129
 2-Nov-16	 SY8 RESTAURANT 11/02 #xxxxx8000 PURCHASE 1304 E MAPLE RD TROY MI	                 debit	          329.88
 2-Nov-16	 TRANSFIRST DES:BKCD STLMT ID:xxxxxxxxxxx1714 INDN:THE BREAKFAST CLUB CO ID:WFBT	 credit	          707.25
 3-Nov-16	 BKOFAMERICA ATM 11/03 #xxxxx5537 DEPOSIT MAPLE/LIVERMOIS TROY MI	                 credit	          800
-3-Nov-16	 CHECKCARD 1101 DELTA LOS ANGELES CA xxxxxxxxxxxxxxxxxxx5599	                     debit	          1266.43
+3-Nov-16	 CHECKCARD 1101 DELTA LOS ANGELES CA xxxxxxxxxxxxxxxxxxx5599	                         debit	          1266.43
 3-Nov-16	 SY8 RESTAURANT 11/03 #xxxxx8405 PURCHASE 1304 E MAPLE RD TROY MI	                 debit	          271.6
